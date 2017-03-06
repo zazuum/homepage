@@ -1,0 +1,143 @@
+.jumbotron {
+  background-color: #32004A !important;
+  color: #dbdde0;
+  margin: 0 !important;
+  border: 1px solid white;
+}
+
+.navbar-custom {
+    background-color: #32004A;
+    border-color: white;
+    border-radius: 0;
+    font-family: 'Sans', cursive;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+    color: #FFF;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus {
+    background-color: white;
+}
+
+.navbar-custom .navbar-nav > .active > a,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus {
+    color: #FFF;
+    background-color: white;
+}
+
+.navbar-custom .navbar-text {
+    color: #FFF;
+}
+
+.navbar-custom .navbar-toggle {
+    border-color: white;
+}
+
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+    background-color: #430064;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
+//
+
+.mybox {
+  border: thin solid;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: #2c3e50;
+  border-radius: 0.5%;
+  font-family: 'Ubuntu', cursive;
+  width: 100%;
+}
+
+.mybox-full {
+  background: black;
+  width: 90%;
+  height: 400px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.about {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+  border-radius: 50%; {
+  box-shadow: 2px 2px 5px black;
+}
+
+body {
+ background-color: white;
+ background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ -webkit-background-size: cover;
+ color: #black;
+}
+
+
+.about-style{
+    border: thin solid;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: #2c3e50;
+    border-radius: 0.5%;
+    font-family: 'Ubuntu', cursive;
+    width: 100%;
+}
+
+.slika {
+text-align: center;
+
+}
+img{
+  align-items: center;
+}
+
+.futer {
+  color: white;
+  background-color: #32004A;
+  border-radius: 0.5%;
+  font-family: 'Ubuntu', cursive;
+
+}
+
+body{
+  background-color: #430064;
+
+
+}
+
+p a {
+  font-family: 'Ubuntu', cursive;
+  color: #dbdde0;
+}
+
+h2{
+  font-family: 'Ubuntu', cursive;
+  color:#dbdde0;
+}
+
+h3{
+  font-family: 'Ubuntu', cursive;
+  color:#dbdde0;
+}
